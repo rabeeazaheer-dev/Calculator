@@ -14,4 +14,4 @@ A modern, responsive, and sleek Web Calculator designed with a dark neon red the
 2. Double-click to open it in any browser (Chrome, Edge, Firefox).
 
 ### Option 2: Clone via Terminal
-git clone [https://github.com/rabeeazaheer-dev/YOUR-REPO-NAME.git]
+git clone https://github.com/rabeeazaheer-dev/Calculator.git
