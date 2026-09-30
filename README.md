@@ -32,7 +32,4 @@ Open the index.html file in any modern web browser (Chrome, Edge, Firefox, Safar
 
 No additional dependencies, node packages, or build tools required!
 
-📂 Project Structure
 
-├── index.html       # Combined Single-File Web Application (HTML + CSS + JS)
-└── README.md        # Project Documentation
