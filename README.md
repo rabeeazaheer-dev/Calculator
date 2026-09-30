@@ -1,35 +1,17 @@
-Sleek Black & Red Calculator 🧮✨
+# Sleek Black & Red Calculator 🧮
 
-A modern, responsive, and sleek Calculator web application designed with a dark neon aesthetic. Built using pure HTML5, CSS3, and Vanilla JavaScript.
+A modern, responsive, and sleek Web Calculator designed with a dark neon red theme.
 
-🌟 Features
+## 🛠️ Tech Stack
+* **Structure:** HTML5
+* **Styling:** CSS3 (Flexbox & Grid Layout)
+* **Logic:** JavaScript (Vanilla JS)
 
-Modern Dark Theme: Deep black background with glowing red neon accents and micro-interactions.
+## 🚀 How to Run
 
-Responsive Layout: CSS Grid layout optimized for various screen sizes.
+### Option 1: Direct Download
+1. Download the `index.html` file.
+2. Double-click to open it in any browser (Chrome, Edge, Firefox).
 
-Interactive UI: Dynamic button states (hover, focus, active press scaling) with glassmorphism shadows.
-
-Smart Input Logic: Built-in validation to prevent double zeroes, division by zero, and invalid syntax handling.
-
-Complete Functionality: Standard arithmetic operations (+, -, *, /), clear (C), backspace (⌫), double zero (00), and decimal point.
-
-🛠️ Tech Stack & Tools
-
-Structure: HTML5
-
-Styling: CSS3 (Flexbox, Grid, Custom Keyframe Animations, CSS Variables)
-
-Logic: JavaScript (Vanilla JS)
-
-Fonts: Segoe UI / System UI fonts
-
-🚀 How to Run
-
-Clone or Download this repository.
-
-Open the index.html file in any modern web browser (Chrome, Edge, Firefox, Safari).
-
-No additional dependencies, node packages, or build tools required!
-
-
+### Option 2: Clone via Terminal
+git clone [https://github.com/rabeeazaheer-dev/YOUR-REPO-NAME.git]
